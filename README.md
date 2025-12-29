@@ -1,8 +1,6 @@
 # 🎵 MusicHub — Design Pattern–Driven Music Player
 
-## 📘 Course: CSYE 7374 — Software Design Patterns  
-**Team:** Group 5  
-**Members:** Abhilash · Sakshi · Srishti · Pranav · Sai
+##  Software Design Patterns  
 
 ---
 
@@ -85,3 +83,4 @@ N7: UI updates, State transitions
 N8: RateLimiter applies Strategy, notifies via Observer
 N9: PlaylistFactory manages playlists
 N10: Loop continues
+
