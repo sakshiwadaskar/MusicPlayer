@@ -6,7 +6,7 @@
 
 ## 🚀 Project Overview
 
-**JAMSYNC** is a console-based, Spotify-inspired music player that demonstrates the application of **10 fundamental software design patterns** and core **object-oriented programming principles**.
+**MusicHub** is a console-based, Spotify-inspired music player that demonstrates the application of **10 fundamental software design patterns** and core **object-oriented programming principles**.
 
 Designed with **scalability, modularity, and real-world constraints** in mind, JAMSYNC supports role-based access (Standard vs Premium users), intelligent API rate limiting, playlist management, and playback — all simulated via CSV-based data ingestion.
 
@@ -83,4 +83,5 @@ N7: UI updates, State transitions
 N8: RateLimiter applies Strategy, notifies via Observer
 N9: PlaylistFactory manages playlists
 N10: Loop continues
+
 
