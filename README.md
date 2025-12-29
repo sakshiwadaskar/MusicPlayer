@@ -14,7 +14,7 @@ Designed with **scalability, modularity, and real-world constraints** in mind, J
 
 ## 🧠 Problem Statement
 
-JAMSYNC addresses the challenge of building a realistic and maintainable music player that:
+MusicHub addresses the challenge of building a realistic and maintainable music player that:
 
 - Supports **browsing, playback, and playlist management**
 - Enforces **intelligent rate limiting**:
@@ -83,5 +83,6 @@ N7: UI updates, State transitions
 N8: RateLimiter applies Strategy, notifies via Observer
 N9: PlaylistFactory manages playlists
 N10: Loop continues
+
 
 
