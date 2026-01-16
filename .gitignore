@@ -28,6 +28,5 @@ replay_pid*
 *.DS_Store
 /target/
 
-src/main/java/edu/neu/player/playlist
 src/main/java/edu/neu/player/demo
 src/main/java/edu/neu/player/command
